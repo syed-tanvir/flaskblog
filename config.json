@@ -1,0 +1,22 @@
+{
+	"params": {
+		"local_server": "True",
+		"local_uri": "mysql://root:@localhost/techdoor",
+		"prod_uri": "mysql://root:@localhost/techdoor",
+		"fb_url": "https://www.facebook.com/",
+		"tw_url": "https://www.twitter.com/",
+		"git_url": "https://github.com/",
+		"blog_name": "TechDoor",
+		"gmail-user":"syedashik111@gmail.com",
+		"gmail-pass":"itis20111874g",
+		"about": "Hello everybody, I am tanvir ashik .A tech lover and computer science learner.I make this blog by using flask",
+		"num_of_posts":4,
+		"login_img": "login.svg",
+        "admin-user": "Tanvir",
+        "admin-pass": "12345",
+		"uploader_location": "C:\\Users\\Tanvir\\Desktop\\Flaskblog\\static\\img"
+
+
+
+	}
+}
